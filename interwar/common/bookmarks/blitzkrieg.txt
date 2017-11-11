@@ -1,4 +1,3 @@
-#This is an unused placeholder
 #bookmarks = {
 #	bookmark = {
 #		name = "BLITZKRIEG_NAME"

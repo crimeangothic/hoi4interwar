@@ -84,18 +84,7 @@ bookmarks = {
 				found_own_faction_focus
 			}			
 		}
-		"SOV"={
-			history = "SOV_NWO_DESC"
-			ideology = communism
-			ideas = {
-
-			}
-			focuses = {
-				SOV_great_purge
-				SOV_claims_on_baltic
-				SOV_war_with_uk
-			}	
-		}
+		
 
 		"---"={
 			history = "OTHER_NWO_DESC"
