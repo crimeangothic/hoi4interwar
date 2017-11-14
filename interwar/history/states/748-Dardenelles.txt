@@ -1,0 +1,16 @@
+state={
+	id=748
+	name="Dardenelles"
+	provinces={
+		849 6864 9887 
+	}
+	manpower=540000
+	buildings_max_level_factor=1.000
+               history={
+               owner = INZ
+               add_core_of = INZ
+               add_core_of = GRE
+               add_core_of = TUR
+               }
+               state_category=rural
+}
