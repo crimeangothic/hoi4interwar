@@ -1,0 +1,13 @@
+state={
+	id=745
+	name="Adrianople"
+	provinces={
+		849 922 3879 3893 6895 11842 
+	}
+	manpower=415000
+               history={
+               owner = GRE
+               add_core_of = GRE
+               add_core_of = TUR
+	buildings_max_level_factor=1.000
+}

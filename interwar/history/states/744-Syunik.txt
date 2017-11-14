@@ -1,0 +1,20 @@
+state={
+	id=744
+	name="Syunia"
+	provinces={
+		1467 1539 1610 9715 11674 11704 
+	}
+              state_category = town
+	manpower=100000
+              history={
+              owner = ARM
+              add_core_of = ARM
+              buildings = {
+			infrastructure = 4
+			industrial_complex = 1
+			air_base = 1
+
+		}
+}
+	buildings_max_level_factor=1.000
+}
